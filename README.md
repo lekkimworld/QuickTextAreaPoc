@@ -13,4 +13,4 @@ Pressing ESC closes the dialog without making any snippet selection.
 * Pop up not "modal" ie. user could probably set focus to textarea manually
 * Hard coded snippet values. Should be integrated with actual `Quick Text` object
 * No error checking
-* Do merge fields support
+* No merge fields support
